@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "881110904134",
+    "firebase_url": "https://transport-tracker-56d6b.firebaseio.com",
+    "project_id": "transport-tracker-56d6b",
+    "storage_bucket": "transport-tracker-56d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881110904134:android:b9cf65aa7a2fb34a",
+        "android_client_info": {
+          "package_name": "playlagom.am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881110904134-0nhcte7eaeect4d80f0ob3hipms26eqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "playlagom.am",
+            "certificate_hash": "9ed24a35a6c2b97846cd01b1e53741dd1d13b502"
+          }
+        },
+        {
+          "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJyJU8cXuApBmX9kFmrLCYnzJF3ztK64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881110904134:android:de9d8438013313e2",
+        "android_client_info": {
+          "package_name": "playlagom.sharelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881110904134-hgoj41bulk2k6pi48q6gtoeuc0k2ibvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "playlagom.sharelocation",
+            "certificate_hash": "9ed24a35a6c2b97846cd01b1e53741dd1d13b502"
+          }
+        },
+        {
+          "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJyJU8cXuApBmX9kFmrLCYnzJF3ztK64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881110904134:android:310be9176f8c4daa",
+        "android_client_info": {
+          "package_name": "sharelocation.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881110904134-4tqbaj98c78uj200kedikutaqdu9tbvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sharelocation.transporttracker",
+            "certificate_hash": "9ed24a35a6c2b97846cd01b1e53741dd1d13b502"
+          }
+        },
+        {
+          "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJyJU8cXuApBmX9kFmrLCYnzJF3ztK64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881110904134-dia6sfc1eq6ra5dcnm325t6l9kt7pv5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
